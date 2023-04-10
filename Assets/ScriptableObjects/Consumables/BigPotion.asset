@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 984332cf7131ee6429c20c3480226b19, type: 3}
+  m_Name: BigPotion
+  m_EditorClassIdentifier: 
+  _prefabInventory: {fileID: 8990515905748860091, guid: 064971560b15c8843bb6572bef26228d, type: 3}
+  _prefabQuickUse: {fileID: 1530793372527756290, guid: 069881df5a4076a4c9132ba49987668c, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: b7fba2e80c4dfe149aee75ccfc6167d2, type: 3}
+  _type: 0
+  _icon: {fileID: 21300000, guid: 7f9d068ec8f99454a9591442f1c347f3, type: 3}
+  _price: 130
+  _name: Big Potion
+  _description: You regain 4 life points instantly from the moment you drink this
+    potion.
+  _restorePointValue: 4

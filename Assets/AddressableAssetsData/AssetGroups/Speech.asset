@@ -1,0 +1,541 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Speech
+  m_EditorClassIdentifier: 
+  m_GroupName: Speech
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e2c74f9ef6240a66998333a6ab5fe6a0
+  m_SerializeEntries:
+  - m_GUID: 4944412276257d010b9d3728f0cec42b
+    m_Address: controls
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 46ba6047e8d12ff16a706ba857607592
+    m_Address: ambientvolume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 63e2cf2346602189f86f4b4820e5d415
+    m_Address: gameplay
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 05fd4f5b5b5f67cfc81aa9766d6a6e13
+    m_Address: back
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 8caa37bf7bd2291ebac9c59a586e9275
+    m_Address: alexislacasse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 730b77215116d1b348ddb4c7fc2be337
+    m_Address: tutorial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 631a7c66d6276903caacdedb75b78724
+    m_Address: pitpit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Bird
+  - m_GUID: 76492acac79ab489d941c4d2516f95c8
+    m_Address: pitpit2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Bird
+  - m_GUID: 272894f1a7526f584bcb15832f3cbaff
+    m_Address: pit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Bird
+  - m_GUID: f86ae6530618e2ee3ab8341a9cd035f5
+    m_Address: cuicui
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Bird
+  - m_GUID: c2c231e08fa7c48b3bdaf423ebc8b82a
+    m_Address: cui
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Bird
+  - m_GUID: 7c72e9e4e6f1a06598f5cc658d06fe3a
+    m_Address: welcome
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 6362ac634ab5641bea70f74709877963
+    m_Address: juliebordagesphonetic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 2432a613d4f45e14e98331c079ae6141
+    m_Address: alexislacassephonetic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 1416ab347ddead7bf91cdd5854f4b201
+    m_Address: godmodeoff
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 657f593f86725d0948ca5494f082a0bb
+    m_Address: no
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: b1dfd92459a36c307967c23c89770ce7
+    m_Address: programmers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 0b5db486a5baad7e0b9096dd608dc9c4
+    m_Address: antoinenoel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: c30653b4ca7967dfb846550384160255
+    m_Address: augustincremetphonetic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: cd829fe6d4d3b02d6bd01764214389dc
+    m_Address: audio
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 5ba508a6df3eae1eb8a5c3f2a13c8032
+    m_Address: augustincremet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: e782813da12b831e4a8f0014b6b310c3
+    m_Address: reset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 8649b008be56fd0e695916b8892ba71c
+    m_Address: godmodeon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: d4fb84e2cf074ca089a614c489adea97
+    m_Address: speechvolume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: d7bc0fc12e6570a1cb4750e24483436f
+    m_Address: yes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 5af4caa8b38aa42d4961a459a2b83fed
+    m_Address: juliebordages
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 0726c4a78169ef84eb4394dd9bb9fb77
+    m_Address: antoinenoelphonetic
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 5e1fbf222537b6962bf294bdb52fd9fd
+    m_Address: collegeboisdeboulogne
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 287812907e00477a384ea1034d99fb29
+    m_Address: resume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: f9dd9ed742db63f16b5156429f1fa64b
+    m_Address: equip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 4defb1fec070bd719874d337e234ad6c
+    m_Address: buy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: b7dd888a7e4ef170eb0370d589896910
+    m_Address: achievement
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: da920926fb05dc0fd95a08672227ffac
+    m_Address: map
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 94beec7dce5936cffadd02b6186a7553
+    m_Address: wip
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: ec7cc578c95992d2aabfbe127132de2c
+    m_Address: exit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 93822793c8457e725a7812bb123180ac
+    m_Address: languagefrancais
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: ddf99ac2b68a8cb589d443e3bb305495
+    m_Address: languageenglish
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 50f1553cafa68915b98fd09e5b2b6590
+    m_Address: inventory
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 197f1c92eb21313bc83eac0c597f591f
+    m_Address: skilltree
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 268c7c2d1a5ee0416a0ec4eb318adff1
+    m_Address: musicvolume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 5f9fc9ad3a02a0799a7a3d73337d9afe
+    m_Address: mastervolume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 792476cd7c582ac0aacd52e2babbb08a
+    m_Address: unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 29078bcad0ea3cea082b9c107a5ea665
+    m_Address: loadgame
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 813393934f1493a8189be26cefb3867c
+    m_Address: newgame
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 8f179373a00af47739bf814c5af99224
+    m_Address: options
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 3d1db7b13e0fc1e9e98b9050a6394b34
+    m_Address: quit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 2f831580ab26c6169b4648c8d7b4fad2
+    m_Address: credits
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 1704dd9961d11ac3bade23c3676cda10
+    m_Address: staminapotiondescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 9fb2d46c2d5d3c0bd94f8673a24bbef3
+    m_Address: bombdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: fa1656e0bcfc7ab9d8c05f8a556209cb
+    m_Address: smallpotiondescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: d3f10554cfeff090c8b70f4075571230
+    m_Address: bigpotiondescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: dc246509058759e3389af2e48ce070c2
+    m_Address: powerpotiondescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 54c223c040bb6aa39b3281409073e459
+    m_Address: pause
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 23bf56d9376298c4491231f2da184d1e
+    m_Address: leave
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+    - Speech
+  - m_GUID: eca4ad35874456651a2dec0ecbef255a
+    m_Address: merchant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+    - Speech
+  - m_GUID: d595943253b0b190a8ec42bc46222b5c
+    m_Address: fxvolume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: d8a7768b71f60ef3e8842edce4c6986c
+    m_Address: bite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - Speech
+  - m_GUID: 1b38818b974cd668ea00173faf5faf69
+    m_Address: claw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - Speech
+  - m_GUID: 716c8fc73810e41b6a18d4d0a362b76a
+    m_Address: malfunction5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: c8d0a9d18b376eef5a100bc3ecb43c1b
+    m_Address: malfunction4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: dfbe589856accc588b93f5b3e03c6ebb
+    m_Address: malfunction3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: ce3a4345ddd9ba05aae9eda49dc0f587
+    m_Address: malfunction2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 4c6b8ba081f63ef14864950d0c825fb9
+    m_Address: malfunction1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 1b9f58951b3bcdc3eb612f9de9745036
+    m_Address: springspringspringdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 741d353fd451695ddb180c1e99fc1343
+    m_Address: springspringdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: fab0a79e64d44135381c7bfed91a8f1a
+    m_Address: radiuspocusdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: abd0961d947ceecceb9645f14dcd7e07
+    m_Address: quickstrikedescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: e71e6e89951f9696eac91883aa6211c5
+    m_Address: skateboarddescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 6dcee176d5e2d7dfe97568858951d3ee
+    m_Address: extralengthdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 5dc25de749aeeca64be7a900a2a3d060
+    m_Address: granddamagedescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: e0f624c9f5fc3848498989162d4dba8e
+    m_Address: eatyourveggiesdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: b17b72c43b2fc4f72a9a3b87fc28cade
+    m_Address: catlivesdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 9f1878beb372f091585f0ffe94fa67b1
+    m_Address: pressetotalktomerchant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 79d692cc6ddbf7ca18f2d44c6ecdfea6
+    m_Address: pressetotalktotrainer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 0a430083ce3221d299d9c29af0206526
+    m_Address: pressetotalktovendor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 5f71f0e5632b9d0e7a868e242a801d72
+    m_Address: rocketlauncherdescription
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - UI
+  - m_GUID: 47610bc96a95369689e4860210dac41d
+    m_Address: chargeattack1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 5dc06810c892783f8a06320faaf67932
+    m_Address: chargeattack2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 9af2642142fa748d4a0b88330036afba
+    m_Address: dashspeech1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 1ba22e8860a893d6598104b1eda9ad36
+    m_Address: dashspeech2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 6b384faf45f4c3b569271a046fc1a17f
+    m_Address: dashspeech3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 098dda9ae14625010879a2b5fbdc0fc7
+    m_Address: projectiles1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 9e3fe5bb8020fa83a840637366aa15dc
+    m_Address: projectiles2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: e99ccd18fe42321c59e72b64fbee0f60
+    m_Address: projectiles3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 5195e26be35be07de8abfcff89bde527
+    m_Address: projectiles4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  - m_GUID: 732cc76b38639741881e4e6979a62e21
+    m_Address: projectiles5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Speech
+    - Player
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4f9ab5285866ddbe497c063192c04a81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 64a286e0babd88a7b9a3191d4e8ecea8, type: 2}
+    - {fileID: 11400000, guid: 96f38948c82a45b5bbc37f62532b9b9c, type: 2}

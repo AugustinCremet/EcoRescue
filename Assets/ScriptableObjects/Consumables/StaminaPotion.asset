@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34bb67f9c359c81469994de68dd8d67d, type: 3}
+  m_Name: StaminaPotion
+  m_EditorClassIdentifier: 
+  _prefabInventory: {fileID: 8990515905748860091, guid: e9413e10bc68cc040947cf6fb2e6e253, type: 3}
+  _prefabQuickUse: {fileID: 1530793372527756290, guid: d98b8d71e1129da459aacb68c761f946, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: ab672e9bef7e30e43801b9f7e27257e8, type: 3}
+  _type: 1
+  _icon: {fileID: 21300000, guid: cfc9eb4a5e2a9f24f93c69a7eb7d868a, type: 3}
+  _price: 75
+  _name: Stamina Potion
+  _description: Restore all of your player stamina instantly from the moment you
+    drink this potion.

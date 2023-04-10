@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8baae21055f7b13488747c4cc098d192, type: 3}
+  m_Name: GrandDamage
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: 9bb2ad8379c0f9b4fa348cafc3aba8b5, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: 83ac2889e471a8444afaa5c55d717851, type: 3}
+  _type: 0
+  _icon: {fileID: 21300000, guid: 0d46941a275b9414299351dc6ad343b8, type: 3}
+  _price: 70
+  _name: Grand Damage
+  _description: ATTACK - Increase basic attack damage by 10%.
+  _increasedPercentageValue: 0.1

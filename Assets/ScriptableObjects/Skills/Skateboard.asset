@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae4be4dd3bccc854389c312d86827fbd, type: 3}
+  m_Name: Skateboard
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: 5e983be3e5117594796c2b384e7e9a12, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: d46dccf154d30194db4d926e08b9c735, type: 3}
+  _type: 3
+  _icon: {fileID: 21300000, guid: aa12c30bcb52fc94882000aec687d5b4, type: 3}
+  _price: 50
+  _name: Skateboard
+  _description: MOVEMENT - Increase movement speed by 10%.
+  _increasedPercentageValue: 0.1

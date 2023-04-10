@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  m_GroupName: Music
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f38f22256e1e464588972520d3ecd703
+  m_SerializeEntries:
+  - m_GUID: dd0cb3c498c4b2d3a9c1847a6eea432a
+    m_Address: Assets/Audio/Music/Pause-Save_Menu_-_3x_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Menu
+  - m_GUID: 9e1b2ba5ec5afd29caec016f3c541e3b
+    m_Address: Assets/Audio/Music/Venturing_V1_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Peaceful
+  - m_GUID: 55fab903bc2e3b75baa8af0bc414eb7b
+    m_Address: Assets/Audio/Music/Stealth_PP_Mix.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Menu
+  - m_GUID: fa7931c763cbd8315837e93686de8ead
+    m_Address: Assets/Audio/Music/War_of_Exploding_Mountains_V1_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Combat
+  - m_GUID: 18f1a79766665638b9f217287df24c21
+    m_Address: Assets/Audio/Music/2._One_Last_Day_on_Earth_-_110bpm_-_LONG_LOOP_1min44s.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Combat
+  - m_GUID: 6c1017dc73c5083789e6b81ca0f81090
+    m_Address: Assets/Audio/Music/Guitar_Folk_Music_V1_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Peaceful
+  - m_GUID: 91cbbebb45ba5131a95551818db7c9b2
+    m_Address: Assets/Audio/Music/3._Time_For_a_Revenge_-_157bpm_-_LOOP_33s.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Combat
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4f9ab5285866ddbe497c063192c04a81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6856a60ac78476833b12e6fb7ffaa50e, type: 2}
+    - {fileID: 11400000, guid: bb476bfecf9a0fc689319199b408b21b, type: 2}

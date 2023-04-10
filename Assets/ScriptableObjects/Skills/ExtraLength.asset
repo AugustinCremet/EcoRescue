@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50aeab3d0cd3d3049a8a17cfeaff428e, type: 3}
+  m_Name: ExtraLength
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: a5e7a8aaeecebbe4bbc9c8c841609587, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: 0a8c0247429b06b41a8f93c5f94ed78a, type: 3}
+  _type: 1
+  _icon: {fileID: 21300000, guid: 7ec312e71ff97f3429ad334aa69366f2, type: 3}
+  _price: 100
+  _name: Extra Length
+  _description: PROJECTILE - Increase projectile range by 100%.
+  _rocketLauncher: 0
+  _decreasedPercentageValue: 0.15
+  _extraLength: 1
+  _increasedPercentageValue: 1

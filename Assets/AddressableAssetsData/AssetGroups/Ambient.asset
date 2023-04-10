@@ -1,0 +1,882 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Ambient
+  m_EditorClassIdentifier: 
+  m_GroupName: Ambient
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8481245083f7c84b8a40e195b410c8f8
+  m_SerializeEntries:
+  - m_GUID: 0b59ed8287c9783eba2d03d5e8422c3a
+    m_Address: Assets/Audio/Ambient/Birds/Bird_chirping_morning_soft_breeze.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Soft Breeze
+    - Ambient
+  - m_GUID: 3565d6f7a9166d0a1ac5eab7ec1eaf9c
+    m_Address: Assets/Audio/Ambient/Birds/Bird_chirping_ritmically_bg_birds.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Ambient
+  - m_GUID: c69e03cd1c999ffcb899db6c384e758d
+    m_Address: Assets/Audio/Ambient/Birds/Birds_early_morning_singing_layers_close_med.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Close
+    - Ambient
+  - m_GUID: c6d0773825bb340809f1c1aaca5880dc
+    m_Address: Assets/Audio/Ambient/Birds/Birds_layers_crows_singing_soft_breeze.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Crow
+    - Soft Breeze
+    - Ambient
+  - m_GUID: c0def26f0b14b2b6a93318123a7fd28a
+    m_Address: Assets/Audio/Ambient/Birds/Birds_singing_soloist_bird_Very_close.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Close
+    - Solo
+    - Ambient
+  - m_GUID: 72823e12a6bc4f01d8533c8391d449ff
+    m_Address: Assets/Audio/Ambient/Birds/Birds_solo_close_perspective_bg_soft_breeze_birds.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Soft Breeze
+    - Close
+    - Ambient
+  - m_GUID: cd0ee07ccccc7117eb6ff5059658efd0
+    m_Address: Assets/Audio/Ambient/Birds/Birds_solo_with_bg_soft_wind_and_birds.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - Soft Breeze
+    - Ambient
+  - m_GUID: a0c864db2c648f275a6afbdd675a3942
+    m_Address: Assets/Audio/Ambient/Birds/Rooster_singing_soft_breeze_cows_dogs.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Rooster
+    - Dog
+    - Cow
+    - Soft Breeze
+    - Ambient
+  - m_GUID: 89a35c289acf873b9a08d50b9e6ff0cb
+    m_Address: Assets/Audio/Ambient/Brook/Small_brook_falls_stone_bg_birds.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Birds
+    - Waterfall
+  - m_GUID: a3a9f3e3332cd9fd3a4538915f699e04
+    m_Address: Assets/Audio/Ambient/Brook/Brook_tiny_Waterfall_between_rocks.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Waterfall
+  - m_GUID: 80ab46edef1c5ba6394f80d56b2db13b
+    m_Address: Assets/Audio/Ambient/Insects/Crickets_night_soft_wind_close_dogs_bg.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Crickets
+  - m_GUID: 3081d7344aa6ca1cb9401eb10b6e1cad
+    m_Address: Assets/Audio/Ambient/Insects/Crickets_night_calm_close.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Crickets
+  - m_GUID: be047d17f3dfc83d98afe50c4507f751
+    m_Address: Assets/Audio/Ambient/Insects/Crickets_night_soft_wind_close.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Crickets
+  - m_GUID: 6adebf4edf59333b9ae47049ab2c2281
+    m_Address: River_small_waterfall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Waterfall
+    - Small River
+  - m_GUID: 8a8a45d5f3306876caeb2e23467121c1
+    m_Address: Assets/Audio/Ambient/River/River_small_flowing_through_stones.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Small
+    - Tumultuous River
+  - m_GUID: 0a20da9b29bb4d792a9d672134368b68
+    m_Address: Assets/Audio/Ambient/River/River_from_med_distance.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+  - m_GUID: 56f86971d68f72bc888a70bb8a32649b
+    m_Address: Assets/Audio/Ambient/River/River_close_perspective_water_detail.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+  - m_GUID: 7973edb2b04c8c4f38fe662aa030907d
+    m_Address: Assets/Audio/Ambient/River/Stream_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+  - m_GUID: 43d5cf2e8dff7306c9d2697e72adbcb2
+    m_Address: Assets/Audio/Ambient/River/River_water_running_fast.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Fast River
+  - m_GUID: 639c1d75570ebe563a892f1c56955148
+    m_Address: Assets/Audio/Ambient/River/River_heavy_dripping_from_wall_of_rocks.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Tumultuous River
+  - m_GUID: 4d34953f447d3fc1ab8216e8372e28bd
+    m_Address: Assets/Audio/Ambient/River/River_water_flowing_through_holes_and_stones.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Tumultuous River
+  - m_GUID: 24e780a1ef9081eed9fbdd86d8a8e00e
+    m_Address: Assets/Audio/Ambient/River/River_flowing_medium_perspective_bg_birds_Soft.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Birds
+  - m_GUID: 5ca8f83243f6c3c0c9c16e2a82d2fdca
+    m_Address: Assets/Audio/Ambient/River/River_water_flowing_fast_close.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - River
+    - Fast River
+    - Close
+  - m_GUID: 4f03b1cf597e06de391062d41a567fb6
+    m_Address: Assets/Audio/Ambient/Weather/Thunderstorm_calm_dry_ambience.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Thunderstorm
+    - Ambient
+  - m_GUID: 9cb9ee2f79982817da1ff35baac5e45d
+    m_Address: Chainsaw10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: cfbe58838e325f5bb89e8e1ea806f291
+    m_Address: Chainsaw5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: 079f4d830a80ecb5e83075af967b054e
+    m_Address: Chainsaw8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: eb4cc25494e7b6345aec9dd66a41742d
+    m_Address: Chainsaw3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: d8775ed41abfc91e5ac09f6ee4683132
+    m_Address: Chainsaw2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: aedc0db783140705b837972121563f37
+    m_Address: Chainsaw9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: ea8343dc547a34e7fa04b3b7f1a49445
+    m_Address: Chainsaw7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: 915a8f350c053563eb97fac7d81d3abd
+    m_Address: Chainsaw11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: 546d42b90e3e0f40587254dea8af5cf4
+    m_Address: Chainsaw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: 4633d61f6328ce9e885d3ea469a1be0a
+    m_Address: Chainsaw4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: 852b2ee0f0a341217bd2614bf402f56d
+    m_Address: Chainsaw6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Chainsaw
+  - m_GUID: 4294772c2d0b7422db379773c4d6297f
+    m_Address: Assets/Audio/Ambient/Forest/Lots_Of_Birds_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 3658a0526b2eaa7deabc17a8fc51767f
+    m_Address: Assets/Audio/Ambient/Forest/Morning_Birds_In_Forest_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 9ada762050f0fa5ed9cd46d0f146f624
+    m_Address: Assets/Audio/Ambient/Forest/Forest_WIth_Distant_Herd_Of_Sheep_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 549027df9531c38f7a94b4902650a924
+    m_Address: Assets/Audio/Ambient/Forest/Lots_Of_Frogs_And_Some_Birds_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: f5b5e37547de04b08b2754d64947288d
+    m_Address: Assets/Audio/Ambient/Forest/Strange_Birds_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 927344adcc0a730f3b9f9d5599b271d0
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Near_City_With_Distant_Dogs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 34e997654e3b8b331b596ffed7603762
+    m_Address: Assets/Audio/Ambient/Forest/Curious_Sounding_Birds_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 22ca9789d5dd1cbcdbf9b7d70a70d2f6
+    m_Address: Strong_Wind_05_No_Loop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 1312c74bbebdb7bb092340df0b249530
+    m_Address: Assets/Audio/Ambient/Forest/Cuckoo_With_Other_Birds_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 9ae73a3692bb7627e80bc29750b37450
+    m_Address: Assets/Audio/Ambient/Forest/Medium_Wind_On_Plants_And_Leafs_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 1c41976d25e005cd9953bcf3db19ff94
+    m_Address: Assets/Audio/Ambient/Forest/Rain_Thunder_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 58f97383df64349ff831d687d35b2817
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Night_Raining_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: c3b1adde8d58d8d61b52670b8e0db0dc
+    m_Address: Assets/Audio/Ambient/Forest/Frogs_Birds_Dogs_And_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: e138a5d779c7010ecb2ddbbc8081bc2f
+    m_Address: Assets/Audio/Ambient/Forest/Forest_With_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: f63d63a3d5a66a57fad7bfccd1b71ce1
+    m_Address: Assets/Audio/Ambient/Forest/Light_Wind_In_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 497685c62559b7a0d91028819b0aa6fb
+    m_Address: Assets/Audio/Ambient/Forest/Rain_Heavy_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: e30e69919ea9bb5a78f792e220118410
+    m_Address: Assets/Audio/Ambient/Forest/Birds_With_Distant_Owl_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 31a2b99fe5ad91f3c82f7a5e075fcf02
+    m_Address: Assets/Audio/Ambient/Forest/Forest_With_Big_Wind_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 28199f92524968c82968f5eee2d9172a
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: bdea06a3ff7be8ff48b5bae56f74cb95
+    m_Address: Assets/Audio/Ambient/Forest/Strong_Wind_On_Leafs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: ee8d4ce7e368fb523be35d388885e56f
+    m_Address: Assets/Audio/Ambient/Forest/Enchanted_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: c908c0106d851d10bb4c062b9ae54c06
+    m_Address: Assets/Audio/Ambient/Forest/Afternoon_Birds_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: d4a39a506c5c53e87a980ca30c9a3b87
+    m_Address: Assets/Audio/Ambient/Forest/AirPlane_In_Forest_Passby_NoLoop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: e7397ff885251f78fa2c4465d7dc99a1
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_Summer_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 30713727bbf3e02d8a31c0da84e06068
+    m_Address: Assets/Audio/Ambient/Forest/Cicacas_At_Night_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 9804bae2a56aceefa93f8395f9d6921e
+    m_Address: Assets/Audio/Ambient/Forest/Calm_Forest_With_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 56d1f953834cba4a195fb3b523dfe6f4
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Burning_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 9cf84843a676fb41bad580a234c001fc
+    m_Address: Assets/Audio/Ambient/Forest/Big_Wind_In_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 630f4edec5b35e3819e136964ed5c250
+    m_Address: Assets/Audio/Ambient/Forest/Distant_Birds_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 9cda06b28b821f313802c1525d96ccd7
+    m_Address: Assets/Audio/Ambient/Forest/Fly_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: f85b7d289eb27a8719ac0bcf85f3f04c
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Morning_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 42e5ea1f84a84b49283db1fc52119da0
+    m_Address: Assets/Audio/Ambient/Forest/Wind_On_Leafs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 23b596d7549189238957e2e2bccfd821
+    m_Address: Assets/Audio/Ambient/Forest/Medium_Wind_On_Plants_And_Leafs_03_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: cc38b0e668fe8f65185c4c106a1734cb
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Birds_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: d24cad417f20256febe8c96f9d5216ea
+    m_Address: Assets/Audio/Ambient/Forest/Plane_Passing_By_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 835dabaa8ec52338ea53fe27d7b7ccf1
+    m_Address: Assets/Audio/Ambient/Forest/Medium_Wind_On_Plants_And_Leafs_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: ba4b696f4374d82b98f0046afd0f6584
+    m_Address: Assets/Audio/Ambient/Forest/Morning_Birds_In_Forest_03_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 174ac28d1918d9f3e83bf169bc21abfc
+    m_Address: Assets/Audio/Ambient/Forest/Fireplace_Low_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 46da7342c3301fbfab3a2012f2b64870
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Ambient_Near_City_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: ec8871008b96d21f382d0cb2e75f05ce
+    m_Address: Assets/Audio/Ambient/Forest/Forest_With_Big_Wind_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: afdfed749897c130b84b9885dab56f27
+    m_Address: Assets/Audio/Ambient/Forest/Lots_Of_Birds_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: e813530f519c791fbb529c0fad726d36
+    m_Address: Assets/Audio/Ambient/Forest/Hard_Wind_No_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: f91ed501513cdafafbd124190ffc997c
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Night_03_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: b36d2f599ac67be068aed809dd8226a3
+    m_Address: Assets/Audio/Ambient/Forest/Cave_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: f37cdc5f5d30a561abb9bb60d4de4f26
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Wind_Fly_Sounding_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 50de50ead80025772be8e5d598700c95
+    m_Address: Assets/Audio/Ambient/Forest/Fireplace_In_Night_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: fa82affdd00819031b06a18552d07271
+    m_Address: Assets/Audio/Ambient/Forest/Birds_With_Distant_Animal_Crying_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: c37302b5b0c07b8339318bd14334917b
+    m_Address: Assets/Audio/Ambient/Forest/Fountain_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: d68a116f3a74d6bbc9127e12add88159
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Night_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: c39912b51bc6d64639f55cc6c0ca3c3e
+    m_Address: Assets/Audio/Ambient/Forest/Cuckoo_In_The_Forest_Background_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 738738fc045861565aa82f412a636537
+    m_Address: Assets/Audio/Ambient/Forest/Distant_Birds_With_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 2369c5c99957c12018cb8300eec341a7
+    m_Address: Assets/Audio/Ambient/Forest/Strong_Wind_With_Wood_Moving_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 7577d761979bbe60a8028c7e900cef38
+    m_Address: Assets/Audio/Ambient/Forest/Dogs_Birds_Frogs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: dd7b7368ffa48060bafd2220d8b742dc
+    m_Address: Assets/Audio/Ambient/Forest/Morning_Birds_In_Forest_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 296262b05247a43d28510d57fe3cffa8
+    m_Address: Assets/Audio/Ambient/Forest/Morning_Birds_In_Forest_04_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 85391fb4f61c46848a911a2e47dc84a2
+    m_Address: Assets/Audio/Ambient/Forest/Curious_Sounding_Birds_04_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: f3ab0c7a2071d26708c1a06f587cb243
+    m_Address: Assets/Audio/Ambient/Forest/Distant_Wind_On_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 4a262293d03954c8993816378e96e685
+    m_Address: Assets/Audio/Ambient/Forest/Cicacas_At_Night_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 04d8ce35d6bd2c9cea6ea1d09d4a6831
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Ambient_Near_City_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 36d71e7460eee7ffdac870dee04e1b3c
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_Peaceful_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 4dd013eeeef10bf358233472a2d14667
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Night_02_With_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: ab6ebe6e1ab30a211a5d98fd60839e69
+    m_Address: Assets/Audio/Ambient/Forest/Flies_In_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 5541fcf2e2c6177369b12246523b106f
+    m_Address: Assets/Audio/Ambient/Forest/Low_Ambience_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 331c6c921c538a4218edd8458030ba08
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_Wind_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: bffaf3a4db00737c5a0b5e5dfbdb5246
+    m_Address: Assets/Audio/Ambient/Forest/Owls_And_Lots_Of_Birds_With_Soft_Wind_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 7758b7f946da81af0bf1950c077f2381
+    m_Address: Crickets_Wind_02_Loop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 4213509868c03d9bdbb5148a96723da6
+    m_Address: Assets/Audio/Ambient/Forest/Wind_On_Trees_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 66819701274e4b774a91ab77e1cc9c6f
+    m_Address: Assets/Audio/Ambient/Forest/Bonfire_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 3f424df8bf4da009c9db61c6f954a880
+    m_Address: Assets/Audio/Ambient/Forest/Lots_Of_Birds_With_Soft_Wind_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 67f026cbd8ca3ba47b1e1b1129d4f4fa
+    m_Address: Assets/Audio/Ambient/Forest/Curious_Sounding_Birds_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 7b682d3d8964f9ca6bda1045c8a208d1
+    m_Address: Assets/Audio/Ambient/Forest/Owls_And_Lots_Of_Birds_With_Soft_Wind_03_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: d296f069e657673b986d0b5342ad7ace
+    m_Address: Assets/Audio/Ambient/Forest/Afternoon_Birds_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: e8f15fad24ac883ef904fb8931cf28b5
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_Howling_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 5b0f02a5fe6dddc0f94aae554e032294
+    m_Address: Assets/Audio/Ambient/Forest/Owls_With_Wind_And_Leafs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 0ba09c1d81a441b96ba6f108ac100f34
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_Dogs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 10e70e2928a1254d2a31353c6418f56d
+    m_Address: Assets/Audio/Ambient/Forest/Lonely_Bird_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 2c14db054c2874ac5810a37e9d3eaac8
+    m_Address: Assets/Audio/Ambient/Forest/Forest_With_Distant_Dogs_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 1cb07562cfeac30eab319193bff05e36
+    m_Address: Assets/Audio/Ambient/Forest/Lots_Of_Birds_With_Soft_Wind_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 63ab14e9122aadde393d1f9d156080df
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Ambient_Near_City_Helicopter_PassingBy_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: fd013a63d65e400c184e307f3156c6c2
+    m_Address: Assets/Audio/Ambient/Forest/Forest_With_Distant_Dogs_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 9693c46efdb605798a4e3ede8e657e03
+    m_Address: Assets/Audio/Ambient/Forest/Cicadas_Weird_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 41105b1df4c28c62d9514a024e90db96
+    m_Address: Assets/Audio/Ambient/Forest/Bonfire_In_The_Forest_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: d7298969ba2131885b3f95e24de04244
+    m_Address: Assets/Audio/Ambient/Forest/Dogs_Barking_In_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: b919b4bf87512fab5b4ac60cf56b42d7
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Morning_02_With_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 752ce8f243980ec3491735da0b545a27
+    m_Address: Assets/Audio/Ambient/Forest/Flies_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 49677d0b7f7dcb037a8a535c59be1a1b
+    m_Address: Assets/Audio/Ambient/Forest/Morning_Birds_In_Forest_05_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 3e849cab2233c1c6698d2040006614ab
+    m_Address: Assets/Audio/Ambient/Forest/Morning_Chicken_In_Forest_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 70411a01442c6a6c4adb02ec1f3a5a42
+    m_Address: Assets/Audio/Ambient/Forest/Rain_Medium_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 48ad72c6c53c77fc98c1f220a862de4b
+    m_Address: Assets/Audio/Ambient/Forest/Cicadas_At_Night_With_Dogs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 2befaf3048deaf4d5b61cda4161ea2f9
+    m_Address: Assets/Audio/Ambient/Forest/Curious_Sounding_Birds_03_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 41bedd8eabdecce45bdf5ced0ce083da
+    m_Address: Assets/Audio/Ambient/Forest/Machine_In_The_Forest_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: c6c25966e0e5e2ce4bf4d58ee7625635
+    m_Address: Assets/Audio/Ambient/Forest/Strong_Wind_On_Leafs_No_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 506917fa0dd3466dc97b6d3b5e06752f
+    m_Address: Assets/Audio/Ambient/Forest/Birds_With_Owls_And_Dogs_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: e4a8cbc3f7bd8fcc9909cf70cb10f4e0
+    m_Address: Assets/Audio/Ambient/Forest/Rain_Soft_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 87823cd79f144e17f8f2077312bdd9cf
+    m_Address: Strong_Wind_04_No_Loop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 100946e849ad17f16baf8b8360271df9
+    m_Address: Assets/Audio/Ambient/Forest/Forest_Burning_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: c0c7b31a914679d16903f196b4e3c729
+    m_Address: Assets/Audio/Ambient/Forest/Machine_In_The_Forest_01_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 898d1820ce5d0d3e3a7afc6281c17edf
+    m_Address: Assets/Audio/Ambient/Forest/Waterfall_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: ce6a7e7bc5d2df3afab59c158e7139b5
+    m_Address: Assets/Audio/Ambient/Forest/Crickets_And_Wind_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 168280278beba41ac98e0aac9479395d
+    m_Address: Assets/Audio/Ambient/Forest/Fireplace_Low_02_Loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Forest
+  - m_GUID: 8f011e585a83f11e6a3491de129f150a
+    m_Address: Assets/Audio/Ambient/Machinerie/128160__ibirdfilm__diesel-truck-idling-front.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Truck
+  - m_GUID: 8cd4f077945c544d1807ea6266a6b86b
+    m_Address: burning_fire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Fire
+  - m_GUID: 8201db3b40279699084f89ca429455e1
+    m_Address: flies
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Insects
+  - m_GUID: b418074303aef6b748089ab8dcc16433
+    m_Address: bees
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ambient
+    - Insects
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4f9ab5285866ddbe497c063192c04a81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9a7f883bdd479863c8c0bb1c5a66e32f, type: 2}
+    - {fileID: 11400000, guid: ac7cff4c03848501f90273d9ad5c4617, type: 2}

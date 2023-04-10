@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da3733949b0f1ca4b8b461ec97d2cc39, type: 3}
+  m_Name: RadiusPocus
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: af83685376acfd44e838e0090a8a9393, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: 26786a4164933fb40915c444b5bb2293, type: 3}
+  _type: 1
+  _icon: {fileID: 21300000, guid: 5a778368cd477b14393a61d35a51b5b3, type: 3}
+  _price: 150
+  _name: Radius Pocus
+  _description: CHARGED ATTACK - Increase attack radius by 1.5 meters.
+  _quickStrike: 0
+  _decreasedPercentageValue: 0.015
+  _radiusPocus: 1
+  _increasedRadiusValue: 1.5

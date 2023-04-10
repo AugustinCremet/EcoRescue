@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2f9af11d580c148816b36850dcdecc, type: 3}
+  m_Name: CatLives
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: 8a0df23664b16304f9914a3ee5becd38, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: bc8b9bb9a3d64f14395b15c6bf5d772f, type: 3}
+  _type: 4
+  _icon: {fileID: 21300000, guid: e219b429c807dd44e86cf92a4272349b, type: 3}
+  _price: 100
+  _name: CatLives
+  _description: HEALTH - Increase maximum health by 1 point.
+  _additionnalLifeValue: 1

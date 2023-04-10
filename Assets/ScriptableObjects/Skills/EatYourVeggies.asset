@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055a63e2cf20b1540a05b9bddde5e0e7, type: 3}
+  m_Name: EatYourVeggies
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: d4c3ab62b4785dd4ab8ea4ae16488af7, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: ea3ede06d62942841ac1455d922d013c, type: 3}
+  _type: 5
+  _icon: {fileID: 21300000, guid: 9a699a6032b9a6740bcee3e342a73399, type: 3}
+  _price: 75
+  _name: Eat Your Veggies!
+  _description: STAMINA - Increase the amount of power points by 1 point.
+  _eatYourVeggies: 1
+  _increasedValue: 1
+  _springSpring: 0
+  _springSpringSpring: 0

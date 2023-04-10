@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f8a835a3f23cb419d6a14c7b5894dc, type: 3}
+  m_Name: Bomb
+  m_EditorClassIdentifier: 
+  _prefabInventory: {fileID: 8990515905748860091, guid: b8ccab7c11472a643b958a27a9e4a79a, type: 3}
+  _prefabQuickUse: {fileID: 1530793372527756290, guid: c36ffa2813ac028458a856aa37ca714f, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: 1431ecd2075e55f4c8be9a5395d84d0d, type: 3}
+  _type: 2
+  _icon: {fileID: 21300000, guid: 9af14869cbf398d4b991b548ace9e72d, type: 3}
+  _price: 150
+  _name: Bomb
+  _description: This bomb takes 3 seconds to explode from the moment you drop it. 
+    Hits anything around an explosive radius of 2 meters.
+  _explosionRadius: 2
+  _timeSecondsToExplode: 180
+  _damageValue: 100
+  _bombPrefab: {fileID: 2479977757579365377, guid: 4569cd279773b224bb42afc1e999f1ca, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06105635bb41fde4fb72adfd60dc8e71, type: 3}
+  m_Name: PowerPotion
+  m_EditorClassIdentifier: 
+  _prefabInventory: {fileID: 8990515905748860091, guid: a440fa2eaa16dc24fb3bf18aa2f93d4f, type: 3}
+  _prefabQuickUse: {fileID: 1530793372527756290, guid: df267e3c1ff18d44f8c8d42df57407f2, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: 41d2d6a03a87d5d469365564fbc00c6b, type: 3}
+  _type: 3
+  _icon: {fileID: 21300000, guid: bce36f5d7b87c5c4a9e304b38f41b62a, type: 3}
+  _price: 100
+  _name: Power Potion
+  _description: Boost attack rate by 30% for 60 seconds from the moment you drink
+    this potion.
+  _increasedPercentageValue: 0.3
+  _timeSeconds: 60

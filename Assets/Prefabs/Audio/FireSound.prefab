@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6670545815968491413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6670545815968491498}
+  - component: {fileID: 6670545815968491499}
+  m_Layer: 0
+  m_Name: FireSound
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6670545815968491498
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6670545815968491413}
+  m_LocalRotation: {x: 0.061628375, y: -0.70441604, z: -0.70441604, w: 0.061628375}
+  m_LocalPosition: {x: 0.08, y: 0.075, z: 0.302}
+  m_LocalScale: {x: 0.39370066, y: 0.3937008, z: 0.3937008}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6670545815968491499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6670545815968491413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb7c246f9ab1df5239fdf81510607ffe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _musicLabels: 
+  _speechLabels: []
+  _speechSolos: []
+  _ambientLabels: 
+  _ambientSolos:
+  - _path: burning_fire
+    _name: burning_fire
+    _volume: 1
+    _pitch: 1
+    _loop: 1
+    _spatialBlend: 1
+  _fxLabels: []
+  _fxSolos: []
+  _prefabLabels: 

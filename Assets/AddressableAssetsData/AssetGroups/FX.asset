@@ -1,0 +1,539 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FX
+  m_EditorClassIdentifier: 
+  m_GroupName: FX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 74cc1dc0427347a0683b049c913c8d62
+  m_SerializeEntries:
+  - m_GUID: 75ae1f2b9b5ab824aa0fe620742ec76a
+    m_Address: Assets/Audio/FX/Birds/Bird_9.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - FX
+  - m_GUID: c65281d11f58ee24298f2f3ad7682b6e
+    m_Address: Assets/Audio/FX/Birds/Bird_12.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - FX
+  - m_GUID: c9c514fa8ad615641b30134ffbbda839
+    m_Address: Assets/Audio/FX/Birds/Bird_10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    - FX
+  - m_GUID: a8f216681612cafabb0230a8fc545a3e
+    m_Address: slash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+  - m_GUID: c605e773042a874d7b5afcddc8af3293
+    m_Address: Assets/Audio/Ambient/Weather/Thunder_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Thunder
+    - FX
+  - m_GUID: 8a0261fad425d32a4a9e56eae8c10560
+    m_Address: Assets/Audio/FX/Fox/fox_hurting1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fox
+    - Player
+    - FX
+  - m_GUID: 009362cd58ee65a449013add50597bd3
+    m_Address: Assets/Audio/FX/Fox/fox_panting.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Fox
+    - Panting
+    - Player
+  - m_GUID: cf0f2c8b04d15073eb0b49e548c72c51
+    m_Address: Assets/Audio/FX/Fox/Screams/scream2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fox
+    - FX
+    - Player
+    - Scream
+  - m_GUID: 7b82c60c612085f4d8b342842fa4a491
+    m_Address: Assets/Audio/FX/Fox/Screams/scream1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fox
+    - FX
+    - Player
+    - Scream
+  - m_GUID: ab10537bf5bcfbc979fd41e836234982
+    m_Address: Assets/Audio/FX/Fox/breath_in.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - Fox
+    - FX
+  - m_GUID: 4d31c366824a2c2fab5cd5d41c60bffc
+    m_Address: Assets/Audio/FX/Fox/Footsteps/footsteps2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - Fox
+    - FX
+    - Footsteps
+  - m_GUID: 096c51671c7c6a541a2d9868d135c314
+    m_Address: Assets/Audio/FX/Fox/Footsteps/footsteps3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Fox
+    - Player
+    - FX
+    - Footsteps
+  - m_GUID: a50c3868d970d476595102a4e5ff476c
+    m_Address: Assets/Audio/FX/Fox/Footsteps/footsteps1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+    - Footsteps
+  - m_GUID: 9d45db056417cae659358ce4b55a7b51
+    m_Address: Assets/Audio/FX/Fox/Barks/fox_barking2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - Fox
+    - FX
+  - m_GUID: daf04eef8804b246da30f58dccbbafe8
+    m_Address: Assets/Audio/FX/Fox/Barks/fox_barking1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - Fox
+    - FX
+  - m_GUID: 22c95c35b753c9cde8df95a0f9e0cd2a
+    m_Address: Assets/Audio/FX/Enemy/enemyfootsteps1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: b93fa2c74dac6673592856fe73e19b6c
+    m_Address: Assets/Audio/FX/Enemy/enemyfootsteps2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 2a087a5e5cd4b6b238cac40c8aeac165
+    m_Address: Assets/Audio/FX/Enemy/enemywarn2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: b9b261bf003da9813803a4abe3c27afa
+    m_Address: Assets/Audio/FX/Enemy/enemywarn1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 00c823a8c7352c43abbc1073b6d09b84
+    m_Address: Assets/Audio/FX/Enemy/enemyattack4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: f4e0c207ab05bc4e08e52319677bc7a9
+    m_Address: Assets/Audio/FX/Enemy/enemyattack3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 5febd2de85a96b707a6c1a29e323ee94
+    m_Address: Assets/Audio/FX/Enemy/enemyattack2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: a48a49f90484330779664b63fba81c7d
+    m_Address: Assets/Audio/FX/Enemy/enemyattack1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: ca2e14168ba689411a43e2918b647c7a
+    m_Address: Assets/Audio/FX/Fox/Footsteps/footstepsrear1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+  - m_GUID: 8c2005064188ce11daf80c90a16f7e18
+    m_Address: Assets/Audio/FX/Fox/Footsteps/footstepsfront1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+  - m_GUID: 13a9705919b063c7ea861e5c88591cb6
+    m_Address: Assets/Audio/FX/Enemy/enemydeath2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 848301791234fac5f95ba0c0e59759e6
+    m_Address: Assets/Audio/FX/Enemy/enemydeath4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 3dc5eb2c69da81e03a01270c0b0b877a
+    m_Address: Assets/Audio/FX/Enemy/enemydeath3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: da73f9d4b5382cdfbbadbb761f3e1912
+    m_Address: Assets/Audio/FX/Enemy/enemydeath1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: d670f91cac88cc038a7927dc3aa40e0d
+    m_Address: walkthroughbush
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Bush
+  - m_GUID: 661c886b6a7cb58ea9a2e126400eda1b
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 954963848ab3fe9d29ebbb73c6057cf9
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt9.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: d474116e916287053ac3f5715b491742
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt8.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: efd83b674320ec6c58856a57a47e72c0
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt7.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 331c817505ccfaec1b116530279d337e
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 785bbbc19a163228480d2bb50e94ec69
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 33044d628619d82f089e60ee17baae89
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 58c9c6f89d09b088881bf11e4b567bdc
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 6a48ed14ccd1e877d95a154e3d4d22a3
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: ca30ecebc8df161588f71310bbe75987
+    m_Address: Assets/Audio/FX/Enemy/enemyhurt1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: a9e8091f08ec7953c8e994ff52fcc8c0
+    m_Address: creepy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+  - m_GUID: 36260fa6c5ff39ee38287a631e6c0f79
+    m_Address: Assets/Audio/FX/Enemy/enemyshotgun1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 60d4afe7a9432ef0fbc1b550bf51d841
+    m_Address: Assets/Audio/FX/Enemy/enemyshotgun2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: d9ce5a8fe32f04db0af0cb11eab30e38
+    m_Address: axehitair3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: b4ee6f459e73d9ee594edaf1581921d9
+    m_Address: axehitair4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 8dc69830328fa75779055a5a5b0069fe
+    m_Address: axehitair1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 33e5137a61118250c8ad48a81c0f845d
+    m_Address: axehitair2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 7818a8bfc95718b37bf5eec301577e92
+    m_Address: axehitfox1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 21f4ec682c7e3d6b8850e88fcb0a3dae
+    m_Address: axehitfox5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: e1be343ee5e9d47b680ef08288dc258e
+    m_Address: axehitfox2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: b24d19e1ccdc5573baa297fb83ba8d8c
+    m_Address: axehitfox6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: e3123ea798ed81dd4bb15a514f1b1609
+    m_Address: axehittree1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 5c0c0bff2177b58ec8ff61cd04db00ae
+    m_Address: axehittree2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: f8e7c61eb0a639021a03c5988c9c20f2
+    m_Address: axehittree5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: d2effc391a8ef10a1bf889bcff1cd942
+    m_Address: axehittree3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 1a2581dab36b0661ea155de757b90a74
+    m_Address: axehittree6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: c1e947019b8d1ea44917bc5a511c94ff
+    m_Address: axehittree12
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: af5fd57502b869ee495c9e1a4cc5e38a
+    m_Address: axehittree11
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 91195b1627a9290f2b13a6cee60706ab
+    m_Address: axehittree13
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: aa7650ed410974448ab30813e81504a9
+    m_Address: axehittree15
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 84155734a446af945a93b7ca11f83173
+    m_Address: axehittree14
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 8d7d9fc5e83a6cf87b223322e71aec95
+    m_Address: axehitfox3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: cc1836f24c6c44b27a1bd55436cabaa0
+    m_Address: axehitfox4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: a744248272ef08b38928e0fef37d63ca
+    m_Address: axehittree7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 71898e3f57cff18e9b42c55d7f1cf284
+    m_Address: axehittree10
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 7573d669b72902aa5afd1a131c9743b2
+    m_Address: axehittree8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 7dd6f48cf9eca47908836a892d08ef25
+    m_Address: axehittree4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: f742c14ddc7c10a7f9160654382e21dc
+    m_Address: axehittree9
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 06373dd1f56b413edbb226ddadffb47e
+    m_Address: bosslogthrow1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: e5fb4b90a7f224fe981804a37546131b
+    m_Address: bosslogthrow2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 4c3a14c53991cd60fbc90315e086ab85
+    m_Address: bosslogthrow3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 972c892e9ae323bc9867f0c2aad2ee87
+    m_Address: bosslogthrow4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Enemy
+  - m_GUID: 1a16b2d8298e36728aca4b5ff5fbe988
+    m_Address: explosion2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - BossLog
+  - m_GUID: 973af911cea1532039dddecbb9283416
+    m_Address: explosion1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - BossLog
+  - m_GUID: 7017cfa3c72a3ffc387ebbd881fabfc1
+    m_Address: dash_fx
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Fox
+    - Player
+  - m_GUID: 7aa2c799b18f96190a9eb744c448ef5e
+    m_Address: charge_attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+  - m_GUID: 46cad009bf0a844bb921f2a2c389259c
+    m_Address: explosion
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+  - m_GUID: 60b585387d5e23258aaad7b82046f3b4
+    m_Address: projectile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Player
+  - m_GUID: f6bdcc30aa28b03afbabbaad48ab5462
+    m_Address: fangs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    - FX
+    - Fox
+  - m_GUID: e2fa08ee2140559ebb43f8a1b685b620
+    m_Address: bomb1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Bomb
+  - m_GUID: 991fa11288426f6b78c39cab29300e81
+    m_Address: bomb2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Bomb
+  - m_GUID: 7de7979ee728d48a0a5500bcba4e0f39
+    m_Address: bomb3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FX
+    - Bomb
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4f9ab5285866ddbe497c063192c04a81, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b4ff74626276dbfa19e5cf98e0c663c0, type: 2}
+    - {fileID: 11400000, guid: 1a8c017280a59dbdb8d76a168b1bf9b9, type: 2}

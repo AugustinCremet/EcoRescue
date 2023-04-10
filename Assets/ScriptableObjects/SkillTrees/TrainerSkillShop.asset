@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 724e4ead3858b7f4ea7df1ebf3360354, type: 3}
+  m_Name: TrainerSkillShop
+  m_EditorClassIdentifier: 
+  _inventoryContainer:
+  - _consumable: {fileID: 11400000, guid: aa5f4cc3c3541dc49b5896ff84b29771, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: d078e59a96d3fab48ac19f07638f90d4, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: 093134042c1997a4082f5168fadb99db, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: 30111be5f1e18ce4884c6d1d1b09d249, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: c0b598dd6e0744c42bfded8f3a402f01, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: 7cd44fdb310e75643951381012f6f9f5, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: 473a74642ee008f4e883b484d7019673, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: a9341731079a053468232f50f11b5917, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: a333b2f453a8da048aca742023ff839c, type: 2}
+    _amount: 0
+  - _consumable: {fileID: 11400000, guid: 93c84262374a321488bced4d787808d6, type: 2}
+    _amount: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055a63e2cf20b1540a05b9bddde5e0e7, type: 3}
+  m_Name: SpringSpringSpring
+  m_EditorClassIdentifier: 
+  _prefabSkillTree: {fileID: 8990515905748860091, guid: ad42b5266ef45d643b1cf8886b00de9c, type: 3}
+  _prefabShop: {fileID: 8990515905748860091, guid: 7f6f961262b84154fa2986fe03725efe, type: 3}
+  _type: 5
+  _icon: {fileID: 21300000, guid: 3e7daa18235d367408ca685dd846d075, type: 3}
+  _price: 200
+  _name: Spring, Spring, Spring
+  _description: STAMINA - Allow 3 dodging maneuvers for every power point instead
+    of 2.
+  _eatYourVeggies: 0
+  _increasedValue: 1
+  _springSpring: 0
+  _springSpringSpring: 1
